@@ -17,21 +17,21 @@ If you have a github account, you can open an issue or Fork and pull request.
 This is prefered, but we'd prefer it if you'd [email
 us](mailto:drcable+QUILTBAG@tarbwf.com), [ask us on
 tumblr](quiltbag101.tumblr.com/ask) or [tweet to
-us]("http://twitter.com/home/?status=@QUILTBAG101 ") than did nothing. 
+us](http://twitter.com/home/?status=@QUILTBAG101 ) than did nothing. 
 Here's some quick links to all the sections:
 
-[Introduction](https://github.com/drcable/QUILTBAG101/blob/master/1.mdl) 
-[These issues are complex](https://github.com/drcable/QUILTBAG101/blob/master/2.mdl) 
-[Lesbian and gay people](https://github.com/drcable/QUILTBAG101/blob/master/3.mdl)
-[bisexuality and pansexuality](https://github.com/drcable/QUILTBAG101/blob/master/4.mdl)
-[trans*](https://github.com/drcable/QUILTBAG101/blob/master/5.mdl)
-[asexuality](https://github.com/drcable/QUILTBAG101/blob/master/6.mdl)
-[romantiscism](https://github.com/drcable/QUILTBAG101/blob/master/7.mdl)
-[queer and unsure](https://github.com/drcable/QUILTBAG101/blob/master/8.mdl)
-[intersex](https://github.com/drcable/QUILTBAG101/blob/master/9.mdl)
-[How not to be a jerk](https://github.com/drcable/QUILTBAG101/blob/master/10.mdl)
-[further reading](https://github.com/drcable/QUILTBAG101/blob/master/11.mdl)
-[Goodbye](https://github.com/drcable/QUILTBAG101/blob/master/12.mdl)
+* [Introduction](https://github.com/drcable/QUILTBAG101/blob/master/1.mdl) 
+* [These issues are complex](https://github.com/drcable/QUILTBAG101/blob/master/2.mdl) 
+* [Lesbian and gay people](https://github.com/drcable/QUILTBAG101/blob/master/3.mdl)
+* [bisexuality and pansexuality](https://github.com/drcable/QUILTBAG101/blob/master/4.mdl)
+* [trans*](https://github.com/drcable/QUILTBAG101/blob/master/5.mdl)
+* [asexuality](https://github.com/drcable/QUILTBAG101/blob/master/6.mdl)
+* [romantiscism](https://github.com/drcable/QUILTBAG101/blob/master/7.mdl)
+* [queer and unsure](https://github.com/drcable/QUILTBAG101/blob/master/8.mdl)
+* [intersex](https://github.com/drcable/QUILTBAG101/blob/master/9.mdl)
+* [How not to be a jerk](https://github.com/drcable/QUILTBAG101/blob/master/10.mdl)
+* [further reading](https://github.com/drcable/QUILTBAG101/blob/master/11.mdl)
+* [Goodbye](https://github.com/drcable/QUILTBAG101/blob/master/12.mdl)
 
 #You're oversimplifying.
 Yes. We are. This is the tradeoff we make in return for having an easy to read
