@@ -3,9 +3,14 @@ QUILTBAG101
 
 QUILTBAG 101, a static site to quickly explain QUILTBAG issues to laypeople.
 
-#how can I help?
+Built around twelve sections, each explaining an issue quickly and cleanly 
+to anyone who'll listen
+
+#How can I help?
 We really need people of diverse sexualites and genders to check that we're
 getting stuff right.
+At the moment we're just putting down notes about what content we're putting 
+in each slide, but we may need devs later(ruby/frontend)
 ##Where do you need help?
 Take a look at sections that apply to you, or that you think you've to somthing
 to add to- Check thet we've got everything right, whether there's anything
