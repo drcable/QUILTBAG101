@@ -16,7 +16,7 @@ QUILTAG+ness to go in the further reading section: Please add these!
 If you have a github account, you can open an issue or Fork and pull request.
 This is prefered, but we'd prefer it if you'd [email
 us](mailto:drcable+QUILTBAG@tarbwf.com), [ask us on
-tumblr](quiltbag101.tumblr.com/ask) or [tweet to
+tumblr](http://quiltbag101.tumblr.com/ask) or [tweet to
 us](http://twitter.com/home/?status=@QUILTBAG101 ) than did nothing. 
 Here's some quick links to all the sections:
 
