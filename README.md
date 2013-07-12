@@ -34,7 +34,7 @@ Here's some quick links to all the sections:
 * [Asexuality](https://github.com/drcable/QUILTBAG101/blob/master/6.mdl)
 * [Queer and Unsure](https://github.com/drcable/QUILTBAG101/blob/master/8.mdl)
 * [Intersex](https://github.com/drcable/QUILTBAG101/blob/master/9.mdl)
-* [Polyamory] (https://github.com/drcable/QUILTBAG101/blog/master/13.mdl)
+* [Polyamory] (https://github.com/drcable/QUILTBAG101/blob/master/13.mdl)
 * [How not to be a jerk](https://github.com/drcable/QUILTBAG101/blob/master/10.mdl)
 * [Further reading](https://github.com/drcable/QUILTBAG101/blob/master/11.mdl)
 * [Goodbye](https://github.com/drcable/QUILTBAG101/blob/master/12.mdl)
