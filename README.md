@@ -26,7 +26,6 @@ us](http://twitter.com/home/?status=@QUILTBAG101 ) than did nothing.
 Here's some quick links to all the sections:
 
 * [Introduction](https://github.com/drcable/QUILTBAG101/blob/master/1.mdl) 
-* [These issues are complex](https://github.com/drcable/QUILTBAG101/blob/master/2.mdl)
 * [Sex and Gender](https://gibhub.com/drcable/QUILTBAG101/blob/master/14.mdl)
 * [Romantic and Sexual Orientation](https://github.com/drcable/QUILTBAG101/blob/master/7.mdl)
 * [Lesbian and Gay people](https://github.com/drcable/QUILTBAG101/blob/master/3.mdl)
