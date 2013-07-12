@@ -26,16 +26,16 @@ us](http://twitter.com/home/?status=@QUILTBAG101 ) than did nothing.
 Here's some quick links to all the sections:
 
 * [Introduction](https://github.com/drcable/QUILTBAG101/blob/master/1.mdl) 
-* [These issues are complex](https://github.com/drcable/QUILTBAG101/blob/master/2.mdl) 
-* [Lesbian and gay people](https://github.com/drcable/QUILTBAG101/blob/master/3.mdl)
-* [bisexuality and pansexuality](https://github.com/drcable/QUILTBAG101/blob/master/4.mdl)
-* [trans*](https://github.com/drcable/QUILTBAG101/blob/master/5.mdl)
-* [asexuality](https://github.com/drcable/QUILTBAG101/blob/master/6.mdl)
-* [romantiscism](https://github.com/drcable/QUILTBAG101/blob/master/7.mdl)
-* [queer and unsure](https://github.com/drcable/QUILTBAG101/blob/master/8.mdl)
-* [intersex](https://github.com/drcable/QUILTBAG101/blob/master/9.mdl)
+* [These issues are complex](https://github.com/drcable/QUILTBAG101/blob/master/2.mdl)
+* [Romantic and Sexual Orientation](https://github.com/drcable/QUILTBAG101/blob/master/7.mdl)
+* [Lesbian and Gay people](https://github.com/drcable/QUILTBAG101/blob/master/3.mdl)
+* [Bisexuality and Pansexuality](https://github.com/drcable/QUILTBAG101/blob/master/4.mdl)
+* [Trans*](https://github.com/drcable/QUILTBAG101/blob/master/5.mdl)
+* [Asexuality](https://github.com/drcable/QUILTBAG101/blob/master/6.mdl)
+* [Queer and Unsure](https://github.com/drcable/QUILTBAG101/blob/master/8.mdl)
+* [Intersex](https://github.com/drcable/QUILTBAG101/blob/master/9.mdl)
 * [How not to be a jerk](https://github.com/drcable/QUILTBAG101/blob/master/10.mdl)
-* [further reading](https://github.com/drcable/QUILTBAG101/blob/master/11.mdl)
+* [Further reading](https://github.com/drcable/QUILTBAG101/blob/master/11.mdl)
 * [Goodbye](https://github.com/drcable/QUILTBAG101/blob/master/12.mdl)
 
 #You're oversimplifying.
