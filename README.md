@@ -25,6 +25,9 @@ tumblr](http://quiltbag101.tumblr.com/ask) or [tweet to
 us](http://twitter.com/home/?status=@QUILTBAG101 ) than did nothing. 
 Here's some quick links to all the sections:
 
+If you're going to commit via github directly, please don't use smart quotes, 
+use four space-tabs and wrap your lines at 80ch, unless you're embedding links.
+
 * [Introduction](https://github.com/drcable/QUILTBAG101/blob/master/1.mdl) 
 * [These issues are complex](https://github.com/drcable/QUILTBAG101/blob/master/2.mdl) 
 * [Lesbian and gay people](https://github.com/drcable/QUILTBAG101/blob/master/3.mdl)
