@@ -1,0 +1,5 @@
+-articles.sort_by{ |i| [ i[:order] ]}.each do |post|
+    %article
+        %h1
+            =post[:title]
+        =post.compiled_content()
