@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>A Brand New nanoc Site - </title>
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- you don't need to keep this, but it's cool for stats! -->
+    <meta name="generator" content="nanoc 3.6.3"> 
+  </head>
+  <body>
+    <div id="main">
+      <p>Page Draft:
+        <em>Gender identity is a  persons sense of gender: whether they feel they 
+        are male, female of somthing else</em>
+        People who feel they are somthing else are called non-binary.</p>
+
+<pre><code>    *A person will have a gender assigned to them at birth. This will be
+    the gender put on your (first) birth certificate.* 
+    The gender assigned is usually based on the genitalia of the person at
+    birth. In some cases, it's difficult to make a decision. See Intersex.
+
+    *Transgender people are people who's gender are different to that to
+    that they were assigned at birth.*
+    A person who's gender matches that assigned to them at birth is called
+    cisgender (cis.)
+
+    *Trans\* identities are a spectrum: there are more options than male or
+    female, such as genderqueer.*
+    These are called "non-binary" genders. The traditional man/woman
+    genders are not used in all societies.
+
+    *Most trans\* people have pronouns they want to you to use. Use them -
+    if you don't know, ask.* 
+
+    *Gender expression is how a person physically presents themselves. For
+    example: wearing masculine or feminine clothes.*
+    Gender expression Doesn't nessicerrily corrleate to gender identiy, 
+    or any other part of their person.
+
+    *A lot of trans people will have some level of discomfort with their
+    bodies. This is known as dysphoria.*
+
+    *Some trans* people will undertake procedures such as surgery or hormone
+    replacments.* 
+    This does not make them "more trans". What procedures somone has undertaken are non of your buisness.
+
+    *It's none of your business what procedures a trans person has
+    undertaken*
+    Medical procedures are personal choice available to some trans* people,
+    but choosing not undergo them if they have this option does not make
+    somone less trans\*
+    
+    *Gender can be fluid - it can change over time, sometimes very
+    rapidly.*
+    People who's gender is very fluid often identify as
+    genderfluid.
+</code></pre>
+
+<p>NOTES:
+Trans people
+    Trans people are born with a body that is not the same as their gender.
+    Sometimes they man or a woman, sometimes somewhere intbetween
+    and sometimes completey unrelated to traditional genders. 
+    Trans people may look like (“present’) however they want; this does not
+    change their gender identity.</p>
+
+
+    </div>
+    <div id="sidebar">
+      <h2>Documentation</h2>
+      <ul>
+        <li><a href="http://nanoc.ws/docs/">Documentation</a></li>
+        <li><a href="http://nanoc.ws/docs/tutorial/">Getting Started</a></li>
+      </ul>
+      <h2>Community</h2>
+      <ul>
+        <li><a href="http://groups.google.com/group/nanoc/">Discussion Group</a></li>
+        <li><a href="irc://chat.freenode.net/#nanoc">IRC Channel</a></li>
+        <li><a href="http://github.com/nanoc/nanoc/wiki/">Wiki</a></li>
+      </ul>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  height: 100%; }
+
+html {
+  height: 100%; }
+
+article {
+  margin: 0 auto;
+  height: 100%; }
+  article article {
+    background-color: #8329bd;
+    height: 100%; }
+    article article h1 {
+      font-size: 3rem;
+      margin-bottom: 0rem; }
+    article article section {
+      margin: 0; }
+      article article section h1 {
+        margin-bottom: 0;
+        font-size: 2rem;
+        font-weight: normal; }
+      article article section p {
+        text-indent: 1em; }
