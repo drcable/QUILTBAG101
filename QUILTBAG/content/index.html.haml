@@ -1,5 +1,5 @@
 -articles.sort_by{ |i| [ i[:order] ]}.each do |post|
-    .slideWrap{:id => post[:title]}
+    .slideWrap{:id => post[:title].gsub(/\s+/, "")}
         %article
             %h1
                 =post[:title]
