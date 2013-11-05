@@ -28,19 +28,6 @@ Here's some quick links to all the sections:
 If you're going to commit via github directly, please don't use smart quotes, 
 use four space-tabs and wrap your lines at 80ch, unless you're embedding links.
 
-* [Introduction](https://github.com/drcable/QUILTBAG101/blob/master/1.mdl) 
-* [These issues are complex](https://github.com/drcable/QUILTBAG101/blob/master/2.mdl) 
-* [Romantic and Sexual Orientation](https://github.com/drcable/QUILTBAG101/blob/master/3.mdl)
-* [Lesbian and Gay people](https://github.com/drcable/QUILTBAG101/blob/master/4.mdl)
-* [Bisexuality and Pansexuality](https://github.com/drcable/QUILTBAG101/blob/master/5.mdl)
-* [Asexuality](https://github.com/drcable/QUILTBAG101/blob/master/6.mdl)
-* [Intersex and sex](https://github.com/drcable/QUILTBAG101/blob/master/7.mdl)
-* [Trans\* and gender](https://github.com/drcable/QUILTBAG101/blob/master/8.mdl)
-* [Queer and Unsure](https://github.com/drcable/QUILTBAG101/blob/master/9.mdl)
-* [Polyamory] (https://github.com/drcable/QUILTBAG101/blob/master/10.mdl)
-* [How not to be a jerk](https://github.com/drcable/QUILTBAG101/blob/master/11.mdl)
-* [Further reading](https://github.com/drcable/QUILTBAG101/blob/master/12.mdl)
-
 #You're oversimplifying.
 Yes. We are. This is the tradeoff we make in return for having an easy to read
 reasource that people will actually read. We're going to have to simplify and
