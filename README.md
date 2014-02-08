@@ -7,16 +7,9 @@ Built around twelve sections, each explaining an issue quickly and cleanly
 to anyone who'll listen
 
 #How can I help?
-We really need people of diverse sexualites and genders to check that we're
-getting stuff right.
-At the moment we're just putting down notes about what content we're putting 
-in each slide, but we may need devs later(ruby/frontend)
+Please send any corrections to us, or send us bugfixes
 ##Where do you need help?
-Take a look at sections that apply to you, or that you think you've to somthing
-to add to- Check thet we've got everything right, whether there's anything
-you'd add, or any notes we should add. We also need lots of reasources on
-QUILTAG+ness to go in the further reading section: Please add these!
-
+We're going to re-do this from the ground up, graphically, but for now please fix anything you can :)
 ##How do I add things?
 If you have a github account, you can open an issue or Fork and pull request.
 This is prefered, but we'd prefer it if you'd [email
